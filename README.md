@@ -1,3 +1,7 @@
+Документация doc/Doc.docx
+
+
+
 cp .env.example .env
 
 docker compose up -d --build
